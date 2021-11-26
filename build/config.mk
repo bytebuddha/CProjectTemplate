@@ -2,7 +2,7 @@ SOURCEDIR = source
 TARGETDIR = target
 VENDORDIR = vendor
 
-BIN_NAME = Salient
+BIN_NAME = CProjectTemplate
 
 CFLAGS += -Wall -std=c99
 
